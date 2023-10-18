@@ -1,0 +1,26 @@
+.newProject{
+    background-color: white;
+    padding: 1.5rem;
+    width: 400px;
+    border-radius: 20px;
+    form{
+        width: 100%;
+        div{
+            width: 100%;
+            margin-bottom: 0.8rem;
+            label{
+                font-weight: 700
+            }
+            input,textarea{
+                width: 100%;
+                resize: none;
+               
+            }
+        }
+        .actions{
+            display: flex;
+            justify-content: flex-end;
+            gap: 1rem;
+        }
+    }
+}

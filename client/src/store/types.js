@@ -1,0 +1,13 @@
+
+export const GET_PROJECTS = 'GET_PROJECTS';
+export const CREATE_PROJECT = 'CREATE_PROJECT';
+export const DELETE_PROJECT = 'DELETE_PROJECT';
+export const UPDATE_PROJECT = 'UPDATE_PROJECT';
+
+export const GET_TASKS = 'GET_TASKS';
+export const CREATE_TASKS = 'CREATE_TASKS';
+export const DELETE_TASKS = 'DELETE_TASKS';
+export const UPDATE_TASKS = 'UPDATE_TASKS';
+
+
+export const USERS_ERROR = 'USERS_ERROR'

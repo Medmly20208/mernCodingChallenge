@@ -1,0 +1,15 @@
+.deleteContainer{
+    display: flex;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .actions{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+    }
+}
